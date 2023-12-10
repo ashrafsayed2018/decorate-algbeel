@@ -1,0 +1,2 @@
+Sitemap: http://decoartee.com/sitemap.xml
+Sitemap: http://www.decoartee.com/sitemap-cat.xml

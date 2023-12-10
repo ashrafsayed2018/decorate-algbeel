@@ -1,0 +1,857 @@
+body {
+    direction: rtl;
+}
+.navbar-brand {
+    margin-right: 0;
+}
+.contact-info {
+    text-align: right;
+}
+.header-style-one .header-wrapper-one .contact-info li {
+    padding-left: 15px;
+    padding-right: 0;
+}
+.header-style-one .header-wrapper-one .help-and-social-wrapper {
+    text-align: left;
+}
+.header-style-one .header-wrapper-one .help-and-social-wrapper .social-links li a {
+    padding-right: 15px;
+    padding-left: 0;
+}
+.header-style-one .header-wrapper-one .help-and-social-wrapper .help-desk li {
+    padding-left: 15px;
+    padding-right: 0;
+}
+.ml-auto, .mx-auto {
+    margin-right: auto!important;
+    margin-left: 0 !important;
+}
+.dropdown-toggle::after {
+    margin-right: .255em;
+    margin-left: 0;
+}
+.construction-nav-one nav .navbar-nav .nav-item .dropdown-menu {
+    text-align: right;
+    right: 0;
+    left: auto;
+}
+.construction-nav-one nav .navbar-nav .nav-item .dropdown-menu li .dropdown-menu {
+    right: 100%;
+    left: auto;
+}
+.construction-nav-one .navbar-light .navbar-collapse .navbar-nav .get-free-quote .nav-link {
+    margin-left: 0;
+}
+.slider-section .hero-slider .hero-slider-item .slider-text {
+    text-align: right;
+}
+.slider-section .hero-slider .hero-slider-item .slider-text h3 {
+    margin-right: 40px;
+    margin-left: 0;
+}
+.slider-section .hero-slider .hero-slider-item .slider-text h3::before {
+    right: -40px;
+    left: auto;
+}
+.slider-section .hero-slider .hero-slider-item .slider-text .default-btn.contact {
+    margin-right: 20px;
+    margin-left: 0;
+}
+.slider-section .owl-theme .owl-nav.disabled+.owl-dots {
+    text-align: right;
+}
+.box-section .single-box.box-border-right::before {
+    left: -3px;
+    right: auto;
+}
+.box-section .single-box.box-border-left::before {
+    right: -3px;
+    left: auto;
+}
+.about-section .about-text-wrapper {
+    padding-left: 50px;
+    text-align: right;
+    padding-right: 0;
+}
+.about-section .about-img-wrapper {
+    text-align: left;
+}
+.about-section .about-img-wrapper .about-img-2 {
+    right: 10px;
+    left: auto;
+    border-left: 30px solid #ffffff;
+    border-right: none;
+    top: 158px;
+}
+.about-section .about-img-wrapper .about-img-2::before {
+    right: -34px;
+    left: auto;
+    z-index: 1;
+    transform: rotateY(176deg);
+}
+.section-title-left h4 {
+    margin-right: 37px;
+    margin-left: 0;
+}
+.section-title-left h4::before {
+    right: -37px;
+    left: auto;
+}
+.about-text-wrapper .about-list {
+    padding: 20px 54px 20px 20px;
+}
+.about-section .about-text-wrapper .about-list i::before {
+    margin-right: -30px;
+    margin-left: 0px;
+    position: absolute;
+    top: 8px;
+}
+.about-section .about-text-wrapper .about-list .icon-color::after {
+    right: -25px;
+    left: auto;
+    top: 5px;
+}
+.about-section .about-text-wrapper .about-list i::after {
+    right: -25px;
+    left: auto;
+    top: 5px;
+}
+.experience-section .experience-content-wrapper {
+    text-align: right;
+}
+.experience-section .experience-content-wrapper .experience-list .experience-text {
+    margin-right: 40px;
+    margin-left: 55px;
+}
+.company-section .section-title-left {
+    max-width: 828px;
+    text-align: right;
+}
+.company-section #tabs {
+    text-align: right;
+}
+.company-section #tabs li {
+    padding-left: 5px;
+    padding-right: 0;
+}
+.company-section .company-text {
+    text-align: right;
+}
+.partner-title {
+    text-align: right;
+}
+.partner-section .partner-title h3::before {
+    display: none;
+}
+.section-title-left {
+    text-align: right;
+}
+.service-section .single-service {
+    text-align: right;
+}
+.service-section .single-service a::before {
+    right: 65px;
+    left: auto;
+}
+.service-section .single-service a:hover::before {
+    right: -10px;
+    left: auto;
+}
+.service-section .single-service a:hover::before {
+    right: 75px;
+    left: auto;
+}
+.counter-section .single-counter {
+    text-align: right;
+}
+.counter-section .single-counter::before {
+    right: -11px;
+    left: auto;
+}
+.counter-section .single-counter p {
+    margin-right: -10px;
+    margin-left: 0;
+}
+.team-man-section .single-team-wrapper {
+    text-align: right;
+}
+.team-man-section .single-team-wrapper .team-icon {
+    left: 0;
+    right: auto;
+}
+.team-man-section .single-team-wrapper .social-links {
+    left: 0;
+    right: auto;
+}
+.pl-0, .px-0 {
+    padding-right: 0!important;
+}
+.project-section .sorting-menu {
+    text-align: right;
+}
+.team-man-section .single-team-wrapper .team-icon i {
+    margin-right: 20px !important;
+    margin-left: 0;
+}
+.project-section .single-project .project-text {
+    text-align: right;
+}
+.position-section .section-title-left {
+    text-align: center;
+}
+.project-section .single-project .project-text h3 {
+    margin-right: 40px;
+    margin-left: 0;
+}
+.project-section .single-project .project-text a {
+    margin-right: 40px;
+    margin-left: 0;
+}
+.testimoinal-section .testimoinal-wrapper .single-testimoinal {
+    text-align: right;
+}
+.testimoinal-section .testimoinal-wrapper .single-testimoinal::before {
+    background-position: left;
+    bottom: 0;
+    top: auto;
+}
+.single-blog.mb-30 {
+    text-align: right;
+}
+.blog-section .single-blog ul li {
+    padding-right: 0;
+    padding-left: 0;
+}
+.submit-section #contactForm .container {
+    text-align: right;
+}
+.single-widget {
+    text-align: right;
+}
+.footer-top .single-widget ul li i {
+    margin-left: 5px;
+    margin-right: 0;
+}
+.footer-bottom .single-widget ul li {
+    padding-left: 15px;
+    padding-right: 0;
+}
+.footer-bottom .single-widgets .social-links {
+    text-align: left;
+}
+.footer-bottom .single-widgets .social-links li a {
+    margin-right: 6px;
+    margin-left: 0;
+}
+.header-style-three .header-wrapper-three::before {
+    right: -38px;
+    left: auto;
+}
+.header-style-one .header-wrapper-one {
+    text-align: right;
+}
+.construction-nav-four nav .navbar-nav .nav-item a {
+    margin-right: 0;
+    margin-left: 9px;
+    padding: 30px 0 30px 33px;
+}
+.construction-nav-four .navbar-light .navbar-collapse .navbar-nav .nav-item .nav-link.active.dropdown-toggle::before {
+    left: 60px;
+}
+.construction-nav-four .language img {
+    margin-left: 10px;
+    margin-right: 0;
+}
+.contact-info-wrapper::before {
+    left: 32px!important;
+    width: 100%;
+}
+.contacts-info::after {
+    left: 16px;
+}
+.contacts-info::before {
+    right: 8px;
+    left: auto;
+}
+.about-section-four .about-text-wrapper {
+    margin-right: 27px;
+    text-align: right;
+}
+.about-section-four .about-lists h4 {
+    font-size: 15px;
+}
+.about-section-four .about-lists h4 i {
+    margin-left: 10px;
+}
+.about-section-four .experience-video .experience-year {
+    left: -20px;
+    right: auto;
+}
+.about-section-four .experience-video::before {
+    right: -34px;
+    left: auto;
+    z-index: 1;
+    transform: rotateY(176deg);
+}
+.choose-section .choose-full-wrapper {
+    margin-right: auto;
+    margin-left: 0;
+}
+.choose-section .choose-text-wrapper {
+    padding-right: 80px;
+    text-align: right;
+    padding-left: 0;
+}
+.choose-section .choose-text-wrapper .choose-icon {
+    right: 0;
+    left: auto;
+}
+.team-section-four .team-join-button-four a {
+    float: left;
+}
+.testimoinal-section-four .testimoinal-wrapper-four .single-testimoinal {
+    text-align: right;
+}
+.testimoinal-section-four .testimoinal-wrapper-four .single-testimoinal::before {
+    background-position: left;
+}
+.contact-section-four .home-page-four-section-title {
+    text-align: right;
+}
+.slider-section-four .hero-slider-four .hero-slider-item .slider-text .default-btn.contact {
+    margin-right: 20px;
+    margin-left: 0;
+}
+.header-style-five .help-wrapper::before {
+    right: -38px;
+    left: auto;
+}
+.header-style-one .header-wrappers-five .help-wrapper {
+    text-align: left;
+}
+.construction-nav-five nav .navbar-nav .nav-item a {
+    margin-right: 0;
+    margin-left: 9px;
+    padding: 30px 0 30px 23px;
+}
+.header-style-five .contacts-info::after {
+    right: 266px;
+    left: auto;
+}
+.header-style-five .contacts-info::before {
+    right: -14px;
+    left: auto;
+}
+.service-section .section-title-left p {
+    margin-right: 35px;
+    margin-left: 0;
+}
+.header-style-six .header-wrapper-six .contact-info {
+    text-align: right;
+    margin-right: 30px;
+    margin-left: 0;
+}
+.header-style-six .header-wrapper-six .contact-info .call-icon i {
+    right: -30px;
+    left: auto;
+}
+.header-style-six .header-wrapper-six .contact-info .clock-icon i {
+    right: -30px;
+    left: auto;
+}
+.header-style-six .contacts-info::before {
+    right: -100px;
+    left: auto;
+}
+.header-style-four .header-wrapper-four .contact-info li span {
+    margin-left: 95px;
+    margin-right: 0;
+}
+.header-style-six .navbar-brand::before {
+    left: -62px;
+    right: auto;
+}
+.skill-section .skill-bar-wrapper {
+    margin-right: 30px;
+    margin-left: 0;
+}
+.skill-section .skill-bar {
+    position: relative;
+}
+.skill-section .skill-bar .progress-content {
+    position: absolute;
+    right: 0;
+}
+.skill-section .skill-bar .progress-title-holder {
+    text-align: right;
+}
+.our-company-section .single-service {
+    text-align: right;
+}
+.work-list {
+    text-align: right;
+}
+.work-section .work-list ul li p {
+    margin-right: 45px;
+    margin-left: 0;
+}
+.work-section .work-list ul li h4 i {
+    margin-left: 10px;
+    margin-right: 0;
+}
+.updates {
+    text-align: right;
+}
+.banner-section .page-title {
+    text-align: right;
+}
+.banner-section .page-title ul li i::before {
+    margin-left: 10px;
+    margin-right: 0;
+}
+.banner-section .page-title ul li a i::before {
+    margin-right: 0;
+}
+.about-section-four .about-lists h4 {
+    font-size: 14px;
+}
+.service-info .service-sidebar-section {
+    text-align: right;
+}
+.service-info .service-sidebar-section span {
+    margin-left: 5px;
+    margin-right: 0;
+}
+.service-download {
+    text-align: right;
+}
+.service-info .service-download i {
+    margin-left: 10px;
+    margin-right: 0;
+}
+.service-info .contact-info li {
+    padding-right: 25px;
+    text-align: right;
+    margin-left: 0;
+}
+.service-info .contact-info i {
+    margin-left: 10px;
+    right: 0;
+    margin-right: 0;
+}
+.service-info .service-content-1 {
+    text-align: right;
+}
+.service-info .service-content-2 {
+    text-align: right;
+}
+.project-management {
+    text-align: right;
+}
+.service-info .project-management i {
+    margin-left: 10px;
+    margin-right: 0;
+}
+.service-info .important-title {
+    text-align: right;
+}
+.important-facts {
+    text-align: right;
+}
+.service-info .important-facts i {
+    margin-left: 10px;
+    margin-right: 0;
+}
+.project-one .section-title-left {
+    text-align: right;
+}
+.project-one .section-title-left h3 {
+    margin-right: 40px;
+    margin-left: 0;
+}
+.project-one .section-title-left h3::before {
+    right: -40px;
+    left: auto;
+}
+.project-one .project-text h3 {
+    text-align: right;
+}
+.project-one .project-text a {
+    margin-right: 30px;
+    margin-left: 0;
+}
+.project-one .project-text {
+    text-align: right;
+}
+.project-info-section .project-info-wrapper {
+    text-align: right;
+}
+.project-info-section .social-links {
+    text-align: right;
+}
+.project-description-wrapper {
+    text-align: right;
+}
+.project-details-wrapper {
+    text-align: right;
+}
+.project-description .project-details-wrapper ul li i {
+    margin-left: 10px;
+    margin-right: 0;
+}
+.sidebar-area .widget.widget-search form button {
+    left: 0;
+    right: auto;
+}
+.sidebar-area .widget .widget-title {
+    margin-right: 35px;
+    margin-left: 0;
+    text-align: right;
+}
+.sidebar-area .widget .widget-title::before {
+    right: -30px;
+    left: auto;
+}
+.sidebar-area .widget.widget_post_categories ul li a {
+    text-align: right;
+}
+.sidebar-area .widget.widget_post_categories ul li a i {
+    margin-left: 10px;
+    margin-right: 0;
+}
+.tagcloud {
+    text-align: right;
+}
+.sidebar-area .widget.widget_recent_posts ul li .recent-post-thumb {
+    right: 0;
+    left: auto;
+}
+.sidebar-area .recent-post-content {
+    margin-right: 30px;
+    margin-left: 0;
+    text-align: right;
+}
+.sidebar-area .widget.widget_recent_posts ul li {
+    padding-right: 88px;
+    padding-left: 0;
+}
+.blogs-section .single-blogs .post-date {
+    right: 40px;
+    left: auto;
+}
+.blogs-section .blogs-content {
+    text-align: right;
+}
+.blogs-section .blogs-content ul li {
+    padding-left: 20px;
+    padding-right: 0;
+}
+.blogs-section .blogs-content ul li i {
+    margin-left: 5px;
+    margin-right: 0;
+}
+.blogs-section .single-blogs:hover .learn::before {
+    right: 20px;
+    left: auto;
+}
+.blogs-section .single-blogs .learn::before {
+    right: 0;
+    left: auto;
+}
+.blogs-section.blog-details-section .blog-details-text {
+    text-align: right;
+}
+.blog-details-text-2 {
+    text-align: right;
+}
+.blogs-section.blog-details-section blockquote {
+    padding: 30px 130px 30px 30px;
+    text-align: right;
+}
+.blog-sub-text {
+    text-align: right;
+}
+.blog-details-section .leave-a-reply {
+    text-align: right;
+}
+.team-one-section-two .home-page-four-section-title h4::before {
+    right: 306px;
+    left: auto;
+}
+.team-one-section-two .home-page-four-section-title h4 {
+    margin-left: 37px;
+    margin-right: 0;
+}
+.team-man-section-two .home-page-four-section-title h4::before {
+    right: 600px;
+    left: auto;
+}
+.team-man-section-two .home-page-four-section-title h4 {
+    margin-left: 37px;
+    margin-right: 0;
+}
+.get-in-touch-wrapper {
+    text-align: right;
+}
+.get-in-touch-section .get-in::before {
+    left: -50px;
+    right: auto;
+}
+.contact-section-two .get-in-touch-section .get-in {
+    text-align: right;
+}
+.contact-section-two .get-in-touch-section .get-in h4::before {
+    right: 50px;
+    left: auto;
+}
+.contact-section-two .get-in-touch-section .contact-info i {
+    margin-left: 10px;
+    margin-right: 0;
+}
+.contact-section-two .section-title-left {
+    text-align: right;
+}
+.header-style-one .header-wrapper-one .contact-info li i {
+    color: #ffb923;
+    padding-left: 5px;
+    display: inherit;
+}
+.default-btn i::before {
+    margin-right: 10px;
+    margin-left: 0;
+}
+.sidebar-modal .modal.right .modal-body {
+    text-align: right;
+}
+.sidebar-modal .modal.right .modal-body .sidebar-modal-widget .title::before {
+    right: 0;
+    left: auto;
+}
+.sidebar-modal .modal.right .modal-body .sidebar-modal-widget ul.contact-info li {
+    padding-right: 45px;
+    padding-left: 0;
+}
+.sidebar-modal .modal.right .modal-body .sidebar-modal-widget ul.contact-info li i {
+    right: 0;
+    left: auto;
+}
+.header-style-four .header-wrapper-four .contact-info {
+    text-align: right;
+}
+.contacts-info::before {
+    display: none;
+}
+.contacts-info::after {
+    display: none;
+}
+.header-style-four .header-wrapper-four .contact-info .clock-icon i {
+    right: -28px;
+}
+.header-style-four .header-wrapper-four .contact-info .call-icon i {
+    right: -28px;
+}
+.header-style-one .header-wrapper-one .contact-info li i::before {
+    color: #ffb923;
+    margin-left: 5px;
+}
+.mr-auto, .mx-auto {
+    margin-left: auto!important;
+    margin-right: 0 !important;
+}
+.header-style-six .header-wrapper-six .contact-info li span {
+    margin-left: 0;
+    margin-right: 72px;
+}
+.get-in-touch-section .contact-wrapper .contact-info li i::before {
+    margin-right: 0;
+    margin-left: 10px;
+}
+.blog-details-section .submit-btn i::before {
+    margin-right: 10px;
+    margin-left: 0;
+}
+.post-controls-buttons .controls-right a i::before {
+    margin-right: 10px;
+    margin-left: 0;
+}
+.post-controls-buttons .controls-left a i::before {
+    margin-right: 0;
+    margin-left: 10px;
+}
+.blogs-section.blog-details-section blockquote::before {
+    right: 0;
+    width: 18%;
+    left: auto;
+}
+#toTop {
+    left: 30px;
+    right: auto;
+}
+.position-section-four .call-us {
+    -webkit-clip-path: polygon(0 0, 100% 1%, 100% 100%, 25% 100%, 0 79%);
+    clip-path: polygon(0 0, 100% 1%, 100% 100%, 25% 100%, 0 79%);
+}
+.about-section-four .experience-video .experience-year {
+    -webkit-clip-path: polygon(0 0, 100% 1%, 100% 100%, 20% 100%, 0 84%);
+    clip-path: polygon(0 0, 100% 1%, 100% 100%, 20% 100%, 0 84%);
+    text-align: right;
+}
+.testimoinal-section-four .testimoinal-wrapper-four .single-testimoinal {
+    -webkit-clip-path: polygon(0 0, 100% 1%, 100% 100%, 25% 100%, 0 79%);
+    clip-path: polygon(0 0, 100% 1%, 100% 100%, 25% 100%, 0 79%);
+}
+.project-description .project-details-wrapper ul li {
+    display: inherit;
+}
+.team-man-section .single-team-wrapper .social-links {
+    -webkit-clip-path: polygon(0 0, 100% 1%, 100% 100%, 14% 100%, 1% 83%);
+    clip-path: polygon(0 0, 100% 1%, 100% 100%, 14% 100%, 1% 83%);
+}
+.header-style-three .header-wrapper-three .contact-info li i::before {
+    color: #ffffff !important;
+}
+.team-man-section .social-links li::before {
+    top: 4px;
+    right: -3px;
+    left: auto;
+}
+.contact-section-two .get-in-touch-section .get-in h3 {
+    font-size: 28px;
+}
+.position-section .section-title-left h4::before {
+    left: -100px !important;
+}
+.position-section .section-title-left h4::after {
+    right: -100px !important;
+}
+.testimoinal-section .section-title-left h4::before {
+    left: -90px !important;
+}
+.testimoinal-section .section-title-left h4::after {
+    right: -90px !important;
+}
+.blog-section .section-title-left h4::before {
+    left: -116px !important;
+}
+.blog-section .section-title-left h4::after {
+    right: -116px !important;
+}
+
+
+
+
+
+
+
+/* RTL responsive css*/
+@media only screen and (max-width: 767px) {
+    .slider-section .hero-slider .hero-slider-item .slider-text h3 {
+        margin-right: 0 !important;
+    }
+    .about-text-wrapper .about-list {
+        padding: 0 33px 0px 0 !important;
+    }
+    .about-section .about-text-wrapper {
+        padding-left: 0;
+    }
+    .experience-section .experience-content-wrapper .experience-list .experience-text {
+        margin-right: 20px !important;
+        margin-left: 0;
+    }
+    .section-title-left h4 {
+        margin-right: 0 !important;
+    }
+    .partner-section .partner-title h3 {
+        text-align: center;
+    }
+    .service-section .section-title-left p {
+        margin-right: 0;
+    }
+    .counter-section .single-counter {
+        text-align: center;
+    }
+    .service-section .single-service a::before {
+        right: 34px !important;
+        left: auto;
+    }
+    .providing-section #tabs {
+        text-align: center;
+    }
+    .providing-section #tabs li i::before {
+        margin-left: 6px;
+        margin-right: 0;
+    }
+    .providing-section #content .content-wrapper .company-text {
+        padding: 25px;
+        margin-bottom: 30px;
+        text-align: right;
+    }
+    .mobile-nav .logo {
+        right: 15px !important;
+        left: auto !important;
+    }
+    .mean-container a.meanmenu-reveal {
+        left: 15px !important;
+        right: auto !important;
+    }
+    .mean-container .mean-nav ul li a.mean-expand {
+        width: 90%;
+    }
+    .slider-section-four .owl-dots {
+        bottom: 20px !important;
+    }
+    .about-section-four .about-text-wrapper {
+        margin-right: 0 !important;
+    }
+    .project-section .single-project .project-text h3 {
+        margin: 0 14px 0 0 !important;
+    }
+    
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .service-section .single-service a::before {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .header-style-one .header-wrapper-one .help-and-social-wrapper .help-desk li {
+        padding-left: 12px !important;
+        padding-right: 0 !important;
+    }
+    .header-style-one .header-wrapper-one .help-and-social-wrapper .social-links li a {
+        padding-right: 12px !important;
+        padding-left: 0 !important;
+    }
+    .header-style-four .header-wrapper-four .contact-info.four li span {
+        margin-right: 0 !important;
+        margin-left: -52px;
+    }
+    .header-style-one .header-wrappers-five .social-wrapper .social-links li a {
+        padding-left: 15px;
+        padding-right: 0;
+    }
+    .construction-nav-one .nav-item.get-free-quote {
+        padding-right: 12px;
+    }
+    .construction-nav-four .navbar-light .navbar-collapse .navbar-nav .nav-item .nav-link.active.dropdown-toggle::before {
+        left: 0 !important;
+        bottom: 14px !important;
+    }
+    header.header.header-style-one.header-style-four.header-style-six {
+        overflow: hidden;
+    }
+    .project-info-section.project-info-section-two .project-info-wrapper {
+        padding: 15px !important;
+    }
+    .project-info-section .project-info-wrapper {
+        padding: 15px !important;
+    }
+    
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1900px) {
+  
+}
+/*# sourceMappingURL=responsive.css.map */
