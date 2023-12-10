@@ -1,26 +1,18 @@
 
-// const float = document.querySelectorAll(".float")
-// const socialLinks = document.querySelectorAll(".social-links li a")
-
-
-// float.forEach(element => {
-//     // will be clickable by default
-// });
-
-// socialLinks.forEach(socialLink => {
-//    // this will be clickable
-// });
-
-// // now i want to prevent click for all links 
+// now i want to prevent click for all links 
 
 const float = document.querySelectorAll(".float");
 const socialLinks = document.querySelectorAll(".social-links li a");
 
+const freeQuote = document.querySelector(".free-quote")
+
 // List of allowed links
-const allowedLinks = [...float, ...socialLinks];
+const allowedLinks = [...float, ...socialLinks,freeQuote];
+console.log(allowedLinks)
 
 document.addEventListener("click", (event) => {
   const clickedElement = event.target;
+
 
   // Check if the clicked element is in the allowed links
   const isAllowed = allowedLinks.some((link) => link.contains(clickedElement));
