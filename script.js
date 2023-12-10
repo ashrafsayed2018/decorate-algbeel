@@ -6,8 +6,11 @@ const socialLinks = document.querySelectorAll(".social-links li a");
 
 const freeQuote = document.querySelector(".free-quote")
 
+const snapchat = document.querySelector(".snapchat");
+const instagram = document.querySelector(".instagram");
+
 // List of allowed links
-const allowedLinks = [...float, ...socialLinks,freeQuote];
+const allowedLinks = [...float, ...socialLinks,freeQuote,snapchat,instagram];
 console.log(allowedLinks)
 
 document.addEventListener("click", (event) => {
